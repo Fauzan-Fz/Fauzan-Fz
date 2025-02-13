@@ -66,7 +66,7 @@
 ###
 
 <br><br>
-<img align="left" height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
+<img align="center" height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
 
 ###
 
