@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-<h2 align="center">Hi 👋! My name is Zan and I'm a Ordinary Dev, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -62,6 +62,10 @@
 ###
 
 <p align="center">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything<br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb</p>
+
+###
+
+<img align="right" height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
 
 ###
 
