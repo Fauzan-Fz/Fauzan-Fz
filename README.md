@@ -61,13 +61,14 @@
 <img align="right" height="150" src="https://i.imgflip.com/9k1w0z.gif"  />
 
 ###
-
-<h6 align="left">Hello World!!</h6>
+<pre>
+    <p align="left">Hello World!!</p>
+</pre>
 
 ###
 
 <br clear="both">
-
+<h1></h1>
 <img src="https://raw.githubusercontent.com/Fauzan-Fz/Fauzan-Fz/output/snake.svg" alt="Snake animation" />
 
 ###
