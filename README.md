@@ -52,7 +52,7 @@
 
 ###
 
-<p align="center">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in **Everything** <br>- 🌱 I’m currently learning ***Anything*** <br>- ⚡ Fun fact:  *I'm 50% weeb* </p>
+<p align="center">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
 
 ###
 
