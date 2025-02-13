@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-<pre width="100">
+<pre width="50">
     <p align="left">Hello World!!</p>
 </pre>
 </div>
