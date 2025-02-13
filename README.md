@@ -1,13 +1,4 @@
-<!---
-- 👋 Hi, I’m @Fauzan-Fz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is Zan and I'm a Ordinary Devs, from Indonesia</h2>
 
 ###
 
@@ -65,9 +56,9 @@
 
 ###
 
-<br><br>
-<img align="center" height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
-<br><br>
+<div align="center">
+  <img height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
+</div>
 
 ###
 
