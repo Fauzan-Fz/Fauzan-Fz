@@ -7,8 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Zan and I'm a Ordinary Dev, from Indonesia</h2>
 
 ###
 
@@ -62,11 +61,7 @@
 
 ###
 
-<div align="center">
-<pre width="50%">
-    <p align="left">Hello World!!</p>
-</pre>
-</div>
+<p align="center">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything<br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb</p>
 
 ###
 
