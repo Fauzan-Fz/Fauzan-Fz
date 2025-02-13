@@ -61,11 +61,13 @@
 <img align="right" height="150" src="https://i.imgflip.com/9k1w0z.gif"  />
 
 ###
+
 <div align="center">
-<pre>
+<pre width="100">
     <p align="left">Hello World!!</p>
 </pre>
 </div>
+
 ###
 
 <br clear="both">
