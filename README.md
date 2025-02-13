@@ -62,8 +62,8 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 <h1></h1>
-<img src="https://raw.githubusercontent.com/Fauzan-Fz/Fauzan-Fz/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/Fauzan-Fz/Fauzan-Fz/output/snake.svg" alt="Snake animation" />
 
 ###
