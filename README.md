@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-<h2 align="left">Hi 👋! My name is Zan and I'm a Ordinary Dev, from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Zan and I'm a Ordinary Dev, from Indonesia</h2>
 
 ###
 
