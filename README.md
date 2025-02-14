@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" border="0">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   </a>
