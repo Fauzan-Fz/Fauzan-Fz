@@ -80,8 +80,10 @@
 ###
  
 <div align="center">
+  
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 </div>
 
 ### 🔝 Top Contributed Repo
