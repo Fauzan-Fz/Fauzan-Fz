@@ -10,8 +10,6 @@
 
 <p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
 
-<br>
-
 ###
 
 <!-- Contact Information -->
@@ -55,6 +53,10 @@
   </a>
   <a href="https://kotlinlang.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  </a>
+  <a href="https://dotnet.microsoft.com/id-id/apps/aspnet/web-apps/blazor" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blazor/blazor-original.svg" height="30" alt="blazor logo"  />
   <img width="12" />
   </a>
   <br>
