@@ -2,6 +2,20 @@
 
 ####
 
+<img align="right" height="150" src="https://i.imgflip.com/9k1w0z.gif"  />
+
+###
+
+<p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
+
+###
+
+<div align="center">
+  <img height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
+</div>
+
+
+###
 <div align="center">
   <a href="https://instagram.com/zanz4k" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -68,24 +82,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/9k1w0z.gif"  />
-
-###
-
-<p align="center">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
-
-###
-
-<div align="center">
-  <img height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
-</div>
-
 ###
 
 <!--
 <br>
 <div align="center">
-
 ### ✍️ Random Quote
 
 <h2></h2>
