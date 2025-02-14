@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 
-<img align="right" height="150" src="https://i.imgflip.com/9k1w0z.gif"  />
+<img align="right" height="130" src="https://i.imgflip.com/9k1w0z.gif"  />
 
 <p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
 
@@ -38,7 +38,7 @@
 
 <!-- Tools And Software -->
 
-<h2>Tools and Software 🔨</h2>
+<h2>Tools and Software 🛠️</h2>
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -104,8 +104,10 @@
 -->
 
 ###
-<!-- <br clear="both"> -->
+
+<!-- <br clear="both">
 <h2></h2>
 <img align="center" src="https://raw.githubusercontent.com/Fauzan-Fz/Fauzan-Fz/output/snake.svg" alt="Snake animation" />
-
+ -->
+ 
 ###
