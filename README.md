@@ -80,6 +80,7 @@
 ###
 <br>
 
+<!--
 <div align="center">
 
 ### ✍️ Random Quote
@@ -89,10 +90,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
+-->
 
 ###
 <!-- <br clear="both"> -->
-<h1></h1>
+<h2></h2>
 <img align="center" src="https://raw.githubusercontent.com/Fauzan-Fz/Fauzan-Fz/output/snake.svg" alt="Snake animation" />
 
 ###
