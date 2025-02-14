@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋! My name is Zan and I'm a Ordinary Devs, from Indonesia 
   <img height="25" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
 </h2>
+
 ####
 
 <!-- About Me -->
@@ -8,7 +9,6 @@
 <img align="right" height="150" src="https://i.imgflip.com/9k1w0z.gif"  />
 
 <p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
-
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <!-- Tools And Software -->
 
-<h2>Tools and Software</h2>
+<h2>Tools and Software 🔨</h2>
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
