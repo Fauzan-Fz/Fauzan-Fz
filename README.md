@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Zan and I'm a Ordinary Devs, from Indonesia 
-  <img align="right"; height="10" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
+  <img height="25" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
 </h2>
 ####
 
