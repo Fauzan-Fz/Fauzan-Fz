@@ -20,7 +20,7 @@
 
 <h2>Contact Me 📫</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://instagram.com/zanz4k" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -36,13 +36,11 @@
   </a>
 </div>
 
-<br>
-
 ###
 
 <!-- Tools And Software -->
 
-<h2>Tools</h2>
+<h2>Tools and Software</h2>
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
