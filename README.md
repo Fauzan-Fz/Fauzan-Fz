@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank" border="0">
+  <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   </a>
@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fauzan-Fz&theme=dracula&show_icons=true&include_all_commit=true&" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fauzan-Fz&theme=dracula&show_icons=true&include_all_commit=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fauzan-Fz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
