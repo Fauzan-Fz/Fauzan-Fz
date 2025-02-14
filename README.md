@@ -1,4 +1,7 @@
 <h2 align="center">Hi 👋! My name is Zan and I'm a Ordinary Devs, from Indonesia</h2>
+<div align="right">
+  <img height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
+</div>
 
 ####
 
@@ -8,9 +11,6 @@
 
 <p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
 
-<div align="left">
-  <img height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
-</div>
 
 <br>
 
