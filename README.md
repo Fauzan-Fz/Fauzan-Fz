@@ -80,15 +80,16 @@
 ###
 <br>
 
+<div align="center">
+
 ### ✍️ Random Quote
 
 <h2></h2>
  
-<div align="center">
-  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
+
 ###
 <!-- <br clear="both"> -->
 <h1></h1>
