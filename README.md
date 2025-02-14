@@ -12,6 +12,8 @@
   <img height="50" src="https://tenor.com/view/oiia-oiiaoiia-oiia-oiia-cat-gif-13397875673260883779.gif"  />
 </div>
 
+<br>
+
 ###
 
 <!-- Contact Information -->
@@ -25,6 +27,7 @@
   <a href="http://discordapp.com/users/712198323712294932" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <br>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fauzanfirdaus1966@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
