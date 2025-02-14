@@ -57,7 +57,7 @@
 </div>
 
 ###
-
+<h2>🌟 My Stats 🌟</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fauzan-Fz&theme=dracula&show_icons=true&include_all_commit=true&0" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fauzan-Fz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -79,21 +79,13 @@
 
 ###
 <br>
-<h1></h1>
+<h1>### ✍️ Random Quote</h1>
  
 <div align="center">
   
-### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Fauzan-Fz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Fauzan-Fz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ###
 <!-- <br clear="both"> -->
 <h1></h1>
