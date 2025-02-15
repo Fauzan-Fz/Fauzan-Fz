@@ -17,6 +17,8 @@
 
 <h2>Contact Me 📫</h2>
 
+<img align="right" height="110" src="https://tenor.com/bdfbC.gif"  />
+
 <div align="left">
   <a href="https://instagram.com/zanz4k" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
