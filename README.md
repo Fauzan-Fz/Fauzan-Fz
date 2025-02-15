@@ -17,7 +17,7 @@
 
 <h2>Contact Me 📫</h2>
 
-<img align="right" height="110" src="https://tenor.com/bdfbC.gif"  />
+<img align="right" height="110" src="https://i.tenor.com/bdfbC.gif"  />
 
 <div align="left">
   <a href="https://instagram.com/zanz4k" target="_blank">
