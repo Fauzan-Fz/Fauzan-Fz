@@ -41,7 +41,7 @@
 
 <h2>Tools and Software 🛠️</h2>
 
-<img align="right" height="125" src="https://cdn.donmai.us/original/bd/c6/__thor_and_specialized_bulin_mkiii_azur_lane_and_1_more_drawn_by_seseren__bdc6702e5af36ad8d396233da6503ca5.gif"  />
+<img align="right" height="135" src="https://cdn.donmai.us/original/bd/c6/__thor_and_specialized_bulin_mkiii_azur_lane_and_1_more_drawn_by_seseren__bdc6702e5af36ad8d396233da6503ca5.gif"  />
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
