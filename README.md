@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 
-<img align="right" height="160" src="https://i.imgflip.com/9k1w0z.gif"  />
+<img align="right" height="130" src="https://i.imgflip.com/9k1w0z.gif"  />
 
 <p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
 <br>
