@@ -90,7 +90,7 @@
 <h2 align="left">My Stats 🌟</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Fauzan-Fz&theme=dracula&show_icons=true&include_all_commit=true&" height="150" alt="stats graph"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fauzan-Fz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fauzan-Fz&locale=en&hide_title=false&layout=compact&card_width=320&" height="150" alt="languages graph"  />
 </div>
 
 ###
