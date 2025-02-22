@@ -6,6 +6,8 @@
 
 <!-- About Me -->
 
+<img align="right" height="100" src="https://tenor.com/id/view/fire-writing-gif-24533171.gif"  />
+
 <img align="right" height="130" src="https://i.imgflip.com/9k1w0z.gif"  />
 
 <p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
@@ -16,7 +18,7 @@
 
 <h2>Contact Me 📫</h2>
 
-<img align="right" height="125" src="https://media.tenor.com/H1lPWf2QVHoAAAAj/anime-feel-the-taste.gif"  />
+<img align="right" height="130" src="https://i.imgflip.com/9k1w0z.gif"  />
 
 <div align="left">
   <a href="https://instagram.com/zanz4k" target="_blank">
