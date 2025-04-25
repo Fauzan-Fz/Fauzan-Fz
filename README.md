@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 
-<img align="right" height="100" src="https://tenor.com/id/view/gunna-fire-writing-heat-gif-25524005.gif"  />
+<img align="right" height="100" src="https://tenor.com/id/view/gunna-fire-writing-heat-gif-25524005.gif" />
 
 <p align="left">- 👋 Hi, I’m Zan<br>- 👀 I’m interested in Everything <br>- 🌱 I’m currently learning Anything<br>- ⚡ Fun fact:  I'm 50% weeb </p>
 
